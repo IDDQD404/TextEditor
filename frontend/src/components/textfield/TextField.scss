@@ -1,0 +1,17 @@
+.TextField {
+  position: fixed;
+  /* height: 85vh;
+  width: 99vmax; */
+  height: 100%;
+  width: 99.9%;
+}
+
+textarea {
+  font-size: var(--font);
+}
+
+.TextField textarea {
+  border: rgb(255, 0, 0) 1px double;
+  width: 100%;
+  height: 100%;
+}
